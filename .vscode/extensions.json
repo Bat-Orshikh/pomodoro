@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "sibiraj-s.vscode-scss-formatter",
+    "mikestead.dotenv"
+  ],
+}
